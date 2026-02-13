@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2026-02-13T14:03:27",
+        "domain": "Machine Learning",
+        "eye_contact": 95,
+        "head_stability": 93,
+        "confidence": 94,
+        "avg_time_per_question": 12.1,
+        "voice_energy_score": 0,
+        "silence_score": 0
+    },
+    {
+        "timestamp": "2026-02-13T14:07:03",
+        "domain": "Machine Learning",
+        "eye_contact": 100,
+        "head_stability": 99,
+        "confidence": 99,
+        "avg_time_per_question": 2.5,
+        "voice_energy_score": 0,
+        "silence_score": 0
+    },
+    {
+        "timestamp": "2026-02-13T14:13:46",
+        "domain": "Machine Learning",
+        "eye_contact": 100,
+        "head_stability": 97,
+        "voice_energy_score": 0,
+        "silence_score": 0,
+        "confidence": 98,
+        "avg_time_per_question": 1.0
+    },
+    {
+        "timestamp": "2026-02-13T14:17:00",
+        "domain": "Machine Learning",
+        "eye_contact": 100,
+        "head_stability": 99,
+        "voice_energy_score": 0,
+        "silence_score": 0,
+        "confidence": 99,
+        "avg_time_per_question": 2.5
+    }
+]

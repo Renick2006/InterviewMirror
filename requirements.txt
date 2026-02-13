@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+numpy
+sounddevice
+gTTS
+playsound==1.2.2
+reportlab
